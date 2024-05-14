@@ -5,7 +5,7 @@
   <Description>Search AdGuard VPN Knowledge Base</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://adguardteam.github.io/KnowledgeBaseVPN/zh-CN/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://adguardteam.github.io//KnowledgeBaseVPN/zh-CN/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://adguardteam.github.io//KnowledgeBaseVPN/zh-CN/opensearch.xml" />
-  <moz:SearchForm>https://adguardteam.github.io//KnowledgeBaseVPN/zh-CN/</moz:SearchForm>
+  <Url type="text/html" method="get" template="https://adguardteam.github.io/KnowledgeBaseVPN/zh-CN/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://adguardteam.github.io/KnowledgeBaseVPN/zh-CN/opensearch.xml" />
+  <moz:SearchForm>https://adguardteam.github.io/KnowledgeBaseVPN/zh-CN/</moz:SearchForm>
 </OpenSearchDescription>
